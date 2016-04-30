@@ -1,5 +1,5 @@
 {
-  "name": "last",
+  "name": "last-js-kata",
   "version": "1.0.0",
   "description": "Javascript kata to find the last element of a list",
   "main": "last.js",
